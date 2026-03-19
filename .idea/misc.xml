@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/quickhire-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/quickhire-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/quickhire-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/quickhire-user-service/pom.xml" />
       </list>
     </option>
   </component>

@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/quickhire-api-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/quickhire-config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/quickhire-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/quickhire-user-service/src/main/java" charset="UTF-8" />
   </component>
 </project>
