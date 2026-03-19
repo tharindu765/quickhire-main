@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-file-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-job-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickhire-user-service" vcs="Git" />
+  </component>
+</project>
