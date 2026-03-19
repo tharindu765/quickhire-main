@@ -1,0 +1,21 @@
+[submodule "quickhire-config-server"]
+	path = quickhire-config-server
+	url = https://github.com/tharindu765/quickhire-config-server.git
+[submodule "quickhire-eureka-server"]
+	path = quickhire-eureka-server
+	url = https://github.com/tharindu765/quickhire-eureka-server.git
+[submodule "quickhire-api-gateway"]
+	path = quickhire-api-gateway
+	url = https://github.com/tharindu765/quickhire-api-gateway.git
+[submodule "quickhire-user-service"]
+	path = quickhire-user-service
+	url = https://github.com/tharindu765/quickhire-user-service.git
+[submodule "quickhire-job-service"]
+	path = quickhire-job-service
+	url = https://github.com/tharindu765/quickhire-job-service.git
+[submodule "quickhire-file-service"]
+	path = quickhire-file-service
+	url = https://github.com/tharindu765/quickhire-file-service.git
+[submodule "quickhire-frontend"]
+	path = quickhire-frontend
+	url = https://github.com/tharindu765/quickhire-frontend.git
