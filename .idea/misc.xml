@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/quickhire-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/quickhire-api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/quickhire-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/quickhire-job-service/pom.xml" />
+        <option value="$PROJECT_DIR$/quickhire-file-service/pom.xml" />
       </list>
     </option>
   </component>
