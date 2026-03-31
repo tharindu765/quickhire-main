@@ -10,6 +10,15 @@
         <option value="$PROJECT_DIR$/quickhire-user-service/pom.xml" />
         <option value="$PROJECT_DIR$/quickhire-job-service/pom.xml" />
         <option value="$PROJECT_DIR$/quickhire-file-service/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/quickhire-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/quickhire-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/quickhire-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/services/quickhire-file-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/quickhire-job-service/pom.xml" />
+        <option value="$PROJECT_DIR$/services/quickhire-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/pom.xml" />
+        <option value="$PROJECT_DIR$/services/pom.xml" />
       </list>
     </option>
   </component>

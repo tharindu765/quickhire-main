@@ -2,12 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/quickhire-api-gateway" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/quickhire-config-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/quickhire-eureka-server" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/quickhire-file-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform/quickhire-api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform/quickhire-config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/platform/quickhire-eureka-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/quickhire-frontend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/quickhire-job-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/quickhire-user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/quickhire-file-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/quickhire-job-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/services/quickhire-user-service" vcs="Git" />
   </component>
 </project>
